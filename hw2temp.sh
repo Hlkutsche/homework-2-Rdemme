@@ -1,4 +1,5 @@
 echo -n "please enter a temperature in Fahrenheit -->"
-read float
+read fahren
 
+echo "scale =1; ($fahren - 32) * (5/9)"
 
